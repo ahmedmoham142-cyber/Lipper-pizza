@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "بيتزا ليبر",
+    "slug": "liber-pizza",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1404/1404945.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "https://cdn-icons-png.flaticon.com/512/1404/1404945.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://cdn-icons-png.flaticon.com/512/1404/1404945.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.liberpizza.app"
+    },
+    "web": {
+      "favicon": "https://cdn-icons-png.flaticon.com/512/1404/1404945.png"
+    }
+  }
+}
